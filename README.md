@@ -8,7 +8,12 @@ I used Excel Power Query, MySQL, and Tableau to clean, validate, analyze, and vi
 
 [View the Interactive Tableau Dashboards](https://public.tableau.com/views/MAC_Donor_Retention_and_Giving/MACFundraisingPerformance)
 
-![Donor Retention and Engagement Dashboard](donor-retention-engagement.png.png)
+### Donor Retention & Engagement
+
+![Donor Retention and Engagement Dashboard](donor-retention-engagement.png)
+
+### Fundraising & Campaign Performance
+![Fundraising and Campaign Performance](fundraising-campaign-performance.png)
 
 ## Business Questions
 
