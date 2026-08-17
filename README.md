@@ -8,6 +8,8 @@ I used Excel Power Query, MySQL, and Tableau to clean, validate, analyze, and vi
 
 [View the Interactive Tableau Dashboards](https://public.tableau.com/views/MAC_Donor_Retention_and_Giving/MACFundraisingPerformance)
 
+![Donor Retention and Engagement Dashboard](donor-retention-engagement.png.png)
+
 ## Business Questions
 
 - How have donor participation, retention, and giving changed over time?
