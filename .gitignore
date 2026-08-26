@@ -1,0 +1,18 @@
+# Local source data and database exports
+data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sql.gz
+*.dump
+
+# Tableau local artifacts and operating-system files
+*.hyper
+*.log
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+~$*
